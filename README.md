@@ -12,6 +12,8 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
+Link: https://hub.docker.com/r/brunopmendonca/codeeducation
+
 
 # Build 
 ```
@@ -26,8 +28,5 @@ docker pull brunopmendonca/codeeducation
 # Executar o container
 ```
 docker run --rm brunopmendonca/codeeducation
-  
-# Link do dockerHub
-```
-https://hub.docker.com/r/brunopmendonca/codeeducation
+
 
