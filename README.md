@@ -28,5 +28,6 @@ docker pull brunopmendonca/codeeducation
 docker run --rm brunopmendonca/codeeducation
   
 # Link do dockerHub
-https://hub.docker.com/r/brunopmendonca/codeeducation
 ```
+https://hub.docker.com/r/brunopmendonca/codeeducation
+
